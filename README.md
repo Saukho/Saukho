@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Saukho
+- 👋 Hi, This is Sami Sihvonen's Github repo.
 - 🌱 I’m currently studying @applied science of Metropolia Univercity ...
 - ✨These repos is mainly for schoolprojects
-
-<!---
-Saukho/Saukho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
